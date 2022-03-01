@@ -1,0 +1,526 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A winding sheet. Wrapped vp in a letter from an onely liuing brother, sent to his few suruiuing sisters.  Denouncing vnto them the sad sentence of death and directing them how to bee prepard for the happie entertainment of it..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07590</idno>
+            <idno type="OCLC"> 166384401</idno>
+            <idno type="STC">STC 7434.4</idno>
+            <idno type="STC">ESTC S126067</idno>
+            <idno type="EEBO-CITATION">166384401</idno>
+            <idno type="OCLC">ocn 166384401</idno>
+            <idno type="VID">191528</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191528)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2271:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A winding sheet. Wrapped vp in a letter from an onely liuing brother, sent to his few suruiuing sisters.  Denouncing vnto them the sad sentence of death and directing them how to bee prepard for the happie entertainment of it..</title>
+                  <author>I. E.</author>
+                  <author>D. W.</author>
+               </titleStmt>
+               <extent>[8], 93 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A[lsop]. and T.F[awcet]. for F.C[lifton]. and are to bee sold at his shop on new Fishstreet-Hill.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1626..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at p. 89: I.E. and signed at p.93: D.W.</note>
+                  <note>Publishers from STC.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-D¹² E⁴.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Death --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191528:1"/>
+            <p>A WINDING-SHEET.</p>
+            <p>Wrapped vp in a Letter from an onely liuing Brother, ſent to his few ſuruiuing Siſters.</p>
+            <p>DENOVNCING Vnto them the ſad Sentence of Death <hi>and directing them how to bee</hi> prepared for the happie Enter<g ref="char:EOLhyphen"/>tainment of it.</p>
+            <q>
+               <bibl>
+                  <hi>IOB. 17.13, 14.</hi>
+               </bibl>
+               <p>Though I hope, yet the Graue ſhall bee mine houſe; and I ſhall make my bed in the darke. I ſhall ſay to Corruption, Thou art my Father, and to the Wormes, Thou art my Mother and my Siſter.</p>
+               <bibl>
+                  <hi>PHILIP. 1.23.</hi>
+               </bibl>
+               <p>To bee looſed and to bee with <hi>CHRIST</hi> is best of all.</p>
+               <bibl>
+                  <hi>MAT. 24.46.</hi>
+               </bibl>
+               <p>Bleſſed is that Seruant whom his Maſter when hee commeth ſhall finde ſo doing.</p>
+            </q>
+            <p>LONDON. Printed by <hi>B. A.</hi> and <hi>T. F.</hi> for <hi>F. C.</hi> and are to bee ſold at his Shop on new <hi>Fiſhſtreet</hi>-Hill. 1626.</p>
+            <pb facs="tcp:191528:2" rendition="simple:additions"/>
+            <pb facs="tcp:191528:2" rendition="simple:additions"/>
+            <pb facs="tcp:191528:3" rendition="simple:additions"/>
+            <pb facs="tcp:191528:3" rendition="simple:additions"/>
+            <p>A</p>
+            <pb facs="tcp:191528:4" rendition="simple:additions"/>
+            <pb facs="tcp:191528:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:191528:5"/>
+            <pb facs="tcp:191528:5"/>
+            <head>TO MY DEAREST AND MOST LO<g ref="char:EOLhyphen"/>uing <hi>Siſters,</hi> M.W. D.B. <hi>and</hi> E.G. <hi>an holy Life</hi> and a bleſſed Death <hi>in</hi> CHRIST IESVS.</head>
+            <lg>
+               <l>
+                  <hi>SISTERS,</hi> vnto</l>
+               <l>your Brother all as deere,</l>
+               <l>As Siſters ought to bee</l>
+               <l>vnto a Brother;</l>
+               <l>A token of my loue</l>
+               <l>I ſend you heere.</l>
+               <l>(True loue will flame</l>
+               <l>or at the leaſt will ſmother.)</l>
+               <pb facs="tcp:191528:6"/>
+               <l>Though it bee but</l>
+               <l>a ſlender paper-ſcrowle,</l>
+               <l>It further may</l>
+               <l>the ſafety of your Soule.</l>
+            </lg>
+            <lg>
+               <l>Should J wiſh to you</l>
+               <l>Coffers packt with Gold;</l>
+               <l>Or wiſh you noble</l>
+               <l>Ladyes at the Court;</l>
+               <l>Should I you wiſh</l>
+               <l>more dayes then can bee told;</l>
+               <l>And with long dayes</l>
+               <l>all meriment and ſport:</l>
+               <l>What would theſe great,</l>
+               <l>theſe glorious wiſhes proue,</l>
+               <l>But the vaine breath,</l>
+               <l>of a meere carnall loue?</l>
+            </lg>
+            <lg>
+               <l>Could J you make</l>
+               <l>all theſe things which I write;</l>
+               <l>Nay, ſhould I you aduance</l>
+               <l>to ſtate of Queenes,</l>
+               <l>With Beauties grac'd</l>
+               <l>procure you all delight,</l>
+               <pb facs="tcp:191528:6"/>
+               <l>With length of dayes</l>
+               <l>the richeſt Judian Mines;</l>
+               <l>And yet the care</l>
+               <l>of your poore ſoules omit,</l>
+               <l>This were nor loue,</l>
+               <l>nor honeſty, nor wit.</l>
+            </lg>
+            <lg>
+               <l>Life ends in Death,</l>
+               <l>and death will quite vndoe</l>
+               <l>The goodlieſt frame</l>
+               <l>of earthly happineſſe.</l>
+               <l>What then would all</l>
+               <l>this glory come vnto?</l>
+               <l>What come of vs</l>
+               <l>and of our outward bliſſe?</l>
+               <l>All vaniſh would,</l>
+               <l>and in that wofull houre</l>
+               <l>If wee preuent not,</l>
+               <l>Hell might vs deuoure.</l>
+            </lg>
+            <lg>
+               <l>From which moſt dreadfull,</l>
+               <l>dolefull, diſmall place,</l>
+               <l>
+                  <hi>GOD</hi> of his mercy deare</l>
+               <l>your ſoules deliuer:</l>
+               <pb facs="tcp:191528:7"/>
+               <l>And you vouchſafe</l>
+               <l>his rich and ſauing Grace,</l>
+               <l>Jnto this gulfe</l>
+               <l>that you doe tumble neuer.</l>
+               <l>Oh therefore while</l>
+               <l>this gracious time doth laſt,</l>
+               <l>Make your ſaluation ſure</l>
+               <l>and hold it faſt.</l>
+            </lg>
+            <lg>
+               <l>Make ſure, make faſt,</l>
+               <l>and in your health prepare</l>
+               <l>Against the houre</l>
+               <l>of your moſt certaine Death;</l>
+               <l>Thrice happie you</l>
+               <l>if you prepared are,</l>
+               <l>When you muſt render</l>
+               <l>vp your fatall breath.</l>
+               <l>This I doe pray for,</l>
+               <l>this J doe contend:</l>
+               <l>For this to you,</l>
+               <l>this little Scrowle I ſend.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A Winding-Sheete</hi> 'tis call'd,</l>
+               <l>which you I ſend:</l>
+               <pb facs="tcp:191528:7"/>
+               <l>Refuſe it not;</l>
+               <l>let it as welcome bee,</l>
+               <l>As euer was</l>
+               <l>from your beſt loued Friend,</l>
+               <l>Your Wedding-gowne</l>
+               <l>your Ring or better fee:</l>
+               <l>The Wedding-gowne,</l>
+               <l>you muſt be hind you leaue,</l>
+               <l>The Winding-ſheete</l>
+               <l>your body muſt receiue.</l>
+            </lg>
+            <lg>
+               <l>The Wedding-gowne,</l>
+               <l>in time away doth weare,</l>
+               <l>And oft with it</l>
+               <l>the wedding comforts fade:</l>
+               <l>Freſh ſpringing comforts</l>
+               <l>fall vnto their ſhare,</l>
+               <l>Which in their Winding-ſheet</l>
+               <l>in peace are layde.</l>
+               <l>And there in peace</l>
+               <l>who doe deſire to lye,</l>
+               <l>Let them oft put</l>
+               <l>it on before they dye.</l>
+               <pb facs="tcp:191528:8"/>
+               <l>Doe ſo with this,</l>
+               <l>vſe it, and on it muſe,</l>
+               <l>Read it, and to</l>
+               <l>your reading practice adde;</l>
+               <l>So Death ſhall neuer</l>
+               <l>bring you heauy newes,</l>
+               <l>But bee a welcome gueſt,</l>
+               <l>a meſſage glad;</l>
+               <l>A day wherein</l>
+               <l>to <hi>CHRIST</hi> you ſhall bee wed,</l>
+               <l>Your Sheet a Gowne,</l>
+               <l>your Graue the Marriage bed.</l>
+            </lg>
+            <closer>
+               <signed>Your Brother, in the fleſh and in CHRIST: <hi>J. E.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:191528:8"/>
+            <head>A WINDING-SHEET.</head>
+            <p>
+               <seg rend="decorInit">D</seg>EARE Siſters, wee haue all beene a good while vpon our journey to our long home and there is none of vs which is not paſt, or at leaſt come to the middle way of this journey, though wee were certaine that wee ſhould fulfill the <hi>Age</hi> preſcribed vnto Man<g ref="char:EOLhyphen"/>kind. (<hi>Pſal.</hi> 90.10.) But of this
+<pb n="2" facs="tcp:191528:9"/>it were folly for any of vs to pro<g ref="char:EOLhyphen"/>miſe or preſume any thing: The terme of this our mortall life is vncertaine and vnknowne. Who<g ref="char:EOLhyphen"/>ſoeuer is moſt backward vpon this way by reaſon of yeares, may by the ſudden ſtroke of Death get the ſtart of his or her fel<g ref="char:EOLhyphen"/>lowes. Wee haue ſeene both of our neere Friends, as our Bro<g ref="char:EOLhyphen"/>ther <hi>W. E.</hi> and Siſter <hi>D. C.</hi> ſome good while ſince; more lately, our Siſter <hi>A. E.</hi> and theſe younger then our ſelues goe before on this way, whoſe ſtaffe ſtandeth next the doore wee know not. And certainly, Death hath giuen lowd bounces at ſome of our doores, who haue beene brought ſo neere vnto it that our recouery was beyond our owne and others hope: You will ſay, wherefore doe you write theſe things which
+<pb n="3" facs="tcp:191528:9"/>wee all ſo well know? Why, but to tell you all and my ſelfe that we muſt make better vſe of theſe things then I feare wee yet haue done. It ſtandeth vs vpon to la<g ref="char:EOLhyphen"/>bour our hearts, that wee may be touched with ſome deepe and ſe<g ref="char:EOLhyphen"/>rious ſenſe of our mortall caſe, and not ſlightly to examine our ſelues how wee are fitted for that houre. It is an ordinary fa<g ref="char:EOLhyphen"/>ſhion for vs vpon the death of Friends or others, to breath out a ſigh or two with ſome ſuch words or wiſhes. Thus wee ſee what wee are, and whereto wee muſt, or God make vs ready for him: But I doubt our care to make tryall of our fitneſſe and to make our ſelues fit doth vaniſh with our words, and is nothing but the ſmoake of a ſuddaine paſ<g ref="char:EOLhyphen"/>ſion. But good Siſters, wee muſt
+<pb n="4" facs="tcp:191528:10"/>know, that there is no trifling in a buſineſſe of this nature. Death is an aduerſary with whom per<g ref="char:EOLhyphen"/>force wee muſt grapple; and a thing which firſt or laſt wee muſt vndergoe. And as once wee ſhall dye and that but once, ſo vpon that once dying doth depend our euerlaſting weale or woe. Mar<g ref="char:EOLhyphen"/>riage, is ſaid to bee a mighty thing; which, wee are with much aduiſement to thinke of ere wee attempt. For, oft our Wedding-day doth proue the firſt or laſt of all the good and pleaſant dayes of our life; but much more is it ſo with the day of our Death. For, haue wee beene vnhappie in our match? If nothing elſe, at length Death will vntie the knot and re<g ref="char:EOLhyphen"/>leaſe vs of that miſery: but after Death no change or alteration of our eſtate can bee expected. Dye
+<pb n="5" facs="tcp:191528:10"/>wee well? wee are for euer (as wee ſay) made men; nay, for euer bleſſed and glorious Saints in Heauen. Dye wee ill? woe be vnto vs, that euer we were borne. Wee ſhall for euer bee out caſts from the Bleſſed preſence of GOD and companions with all Dam<g ref="char:EOLhyphen"/>ned wretches and Diuels of Hell. Alas then! that wee ſhould make ſo light account of this houre: that wee ſhould ſpend ſo few thoughts about it, and caſt away ſo much of our precious time on other things of no moment. Would wee not hold him a very ſot and idle fellow, who hauing ſome great buſineſſe in hand whereon his whole Eſtate or his Life did depend; neglecting that, ſhould ſpend his time and money in walking <hi>London</hi> ſtreets, ſee<g ref="char:EOLhyphen"/>ing the Lyons, Beares, Exchange,
+<pb n="6" facs="tcp:191528:11"/>and other Monuments of the Citie. Loe, what is this but our owne caſe? There doth lye vpon vs the moſt weighty buſineſſe that can bee; and whereon doth ſtand our eternall Bliſſe or Miſery; namely, to bee ready for Death and to dye in the LORD. How doe wee forget our ſelues then, that letting this lye by the walls wee paſſe away our liues as a Dreame, and employ the moſt and beſt of our time and ſtrength in walking the Streets, on the gawdy Toyes of the world, and hunting after the profits and pleaſures of it, which at the laſt caſt, when wee ſhall moſt need comfort, will ſtand vs in no ſtead, but rather adde, to our griefe and miſery.</p>
+            <p>This is an errour which holy DAVID doth blame in mens
+<pb n="7" facs="tcp:191528:11"/>courſes, <hi>Pſal.</hi> 39.7. Doubtleſſe, <hi>Man walketh in a ſhadow,</hi> (or a<g ref="char:EOLhyphen"/>midſt ſhadowes) <hi>and doth diſquite himſelfe in vaine; hee heapeth vp riches and cannot tell who ſhall ga<g ref="char:EOLhyphen"/>ther them.</hi> They are but fleeting ſhadowes and emptie ſhewes of good things rather then things truely good, with which men are deluded, purſuing them with much ſweat and toyle, and vex<g ref="char:EOLhyphen"/>ing their ſoules with many feares and cares about them, but alas! all in vaine. For, as they haue onely ſhadowes when they haue got them, ſo they cannot hold them, nor yet leaue and beſtow them to whom they would.</p>
+            <p>But there is a Wiſedome which MOSES the man of GOD doth deſire, that hee might ſet his heart vpon, <hi>Pſal.</hi> 90.12. LORD <hi>teach mee ſo to number my dayes
+<pb n="8" facs="tcp:191528:12"/>that I may apply my heart vnto Wiſedome.</hi> And wherein ſtandeth this, but in preparing our ſelues for Death? And to ſay truth, this is the onely true Wiſedome; one dram whereof is more worth then all the carnall Prouidence and worldly Wit that is of ſuch account with men, though it fill our Coffers with Gold and bring in worldly wealth aboue our hearts wiſh. The more that wee apply our hearts to this wiſe<g ref="char:EOLhyphen"/>dome, and employ our time a<g ref="char:EOLhyphen"/>bout it, the more wiſe and pro<g ref="char:EOLhyphen"/>uident ſhall wee proue to haue beene for our beſt good; and the ſooner wee doe ſee about it, ſo much the ſafer worke ſhall wee make for our Soules. Our Life is heere aſſigned vs to make ready for Death; which if it were much longer and more certaine then
+<pb n="9" facs="tcp:191528:12"/>it is, were yet at the ſhorteſt for ſuch a buſineſſe; how much more in this ſhortneſſe and vncertain<g ref="char:EOLhyphen"/>ty thereof? This worke, then cannot bee too earely begun nor earneſtly followed, which is of that great importance for our E<g ref="char:EOLhyphen"/>ternall good or ill; and for which, ſo ſhort a time and that vncer<g ref="char:EOLhyphen"/>taine is allotted vs. Heere then I deſire you to goe along with mee, and wee will conſider what is the beſt courſe to fit our ſelues for Death, and gather out of GODS Word (which onely can inſtruct vs with this wiſedome) ſome Obſeruations which by GODS aſſiſtance, may giue vs all ſome helpe and furtherance in this matter.</p>
+            <p>Firſt, then it is a good ſtep of preparation vnto Death tho<g ref="char:EOLhyphen"/>roughly to vnderſtand, that wee
+<pb n="10" facs="tcp:191528:13"/>are fraile and mortall Creatures, with the cauſe from whence it ſpringeth, that is Sinne, and the conſequent thereof, namely, E<g ref="char:EOLhyphen"/>ternall happineſſe or miſerie. MOSES doth take his riſe heere and fetcheth this wiſdome of ma<g ref="char:EOLhyphen"/>king ready for Death from a ſeri<g ref="char:EOLhyphen"/>ous apprehenſion of our Mortali<g ref="char:EOLhyphen"/>tie. LORD, <hi>teach mee</hi> (ſayth hee) <hi>ſo to number my dayes, &amp;c.</hi> Pſal. 90. What is this numbring of our dayes, but to haue a right vnderſtanding, and to take a ſeri<g ref="char:EOLhyphen"/>ous notice of our life how ſhort and fraile it is? Let vs know this and ponder vpon it with the cir<g ref="char:EOLhyphen"/>cumſtances therof, and it will ex<g ref="char:EOLhyphen"/>cite vs to an induſtrious and con<g ref="char:EOLhyphen"/>ſtant care of Dying in the LORD; whereof while wee haue little right knowledge &amp; leſſe thought, wee are both vnready, and care<g ref="char:EOLhyphen"/>leſſe
+<pb n="11" facs="tcp:191528:13"/>to make ready for Death. It is a ſpeciall part of that waking which our SAVIOVR doth pro<g ref="char:EOLhyphen"/>nounce Bleſſed, <hi>Luk.</hi> 12.37. <hi>Bleſ<g ref="char:EOLhyphen"/>ſed are thoſe Seruants, whom the</hi> LORD <hi>when hee commeth ſhall finde waking.</hi> A man that is fallen into a ſound ſleepe doth not for the time know what his eſtate and caſe is, much leſſe ſcanne and ponder it with himſelfe. It is the waking man onely, who can and doth vnderſtand the condition of his health, credit, and abilitie, and employ his thoughts about them to maintaine or amend the ſame. Wee may bee ſure then that wee haue well ſhaken off that drowſie ſleepe, wherein by Nature wee lye knowing little and minding leſſe our mortall ſtate, ſinfull con<g ref="char:EOLhyphen"/>dition, GOD and the future Life, when wee begin duely to vnder<g ref="char:EOLhyphen"/>ſtand,
+<pb n="12" facs="tcp:191528:14"/>deepely apprehend and earneſtly minde, among other Spirituall things, our fraile and mortall Nature, our ſinne which hath brought vs vnder the domi<g ref="char:EOLhyphen"/>nion of Death, and the iſſue of it, which is (as I ſaid) Eternall woe or happineſſe. It is not a com<g ref="char:EOLhyphen"/>mon thing thus to awake; and rare is the man, that is endued with this vnderſtanding of his Mortalitie. It is a myſterie not learned but in GODS Schoole, and that by the teaching of GOD himſelfe onely. Wherefore elſe doth MOSES craue it of GOD, but that he was the onely teacher of it? LORD, <hi>teach mee to num<g ref="char:EOLhyphen"/>ber my dayes, &amp;c.</hi> Pſal. 90. And DAVID likewiſe, LORD, <hi>let mee know mine end and the meaſure of my dayes what it is,</hi> Pſal. 39.4. By humaine Arithmeticke men at<g ref="char:EOLhyphen"/>taine
+<pb n="13" facs="tcp:191528:14"/>to rare skill in numbring; they learne to diuide, multiply, adde and ſubſtract, they are able to caſt vp great ſummes and euen account infinite numbers: Geo<g ref="char:EOLhyphen"/>metrie doe teach men to meaſure Lands, to take the diſtance of Places, the height of Hills, and Towers; yea by Art, men aduen<g ref="char:EOLhyphen"/>ture to define the Compaſſe of the Earth; the breadth of Hea<g ref="char:EOLhyphen"/>uen; the height and magnitude of Starres and Spheares. But there is no Art or skill that can teach vs aright to number our Dayes or meaſure our Life, but the Heauenly arithmeticke taught vs in Gods word; no Maſter hath any faculty to inſtruct vs hereun<g ref="char:EOLhyphen"/>to, but GOD himſelfe, who muſt open this myſterie vnto vs &amp; giue vs wiſedome to apply our heart vnto it. Nature and Reaſon can
+<pb n="14" facs="tcp:191528:15"/>giue vs but a ſlender view and ſhallow vnderſtanding of this thing. What therefore is more common with vs, then to take a falſe meaſure of our life? who of vs truely doth number his dayes? We imagine all our life to bee of many elles length which is but of an hand bredth. Wee conceiue not perhaps that wee ſhall liue euer; nor doe wee due<g ref="char:EOLhyphen"/>ly conſider that wee may ſhortly and ſuddenly; that wee muſt cer<g ref="char:EOLhyphen"/>tainely Dye, and that to our e<g ref="char:EOLhyphen"/>uerlaſting torment if we preuent it not. Children for want of diſcretion vnderſtand nothing of their Mortalitie; Young men who are in the floure and prime of their yeares, thinke that Death cannot yet bee neere them, and that it were but loſt labour for them to thinke on it; Men of
+<pb n="15" facs="tcp:191528:15"/>more mature age encumbred with multitude of worldly bu<g ref="char:EOLhyphen"/>ſineſſe haue not leyſure to conſi<g ref="char:EOLhyphen"/>der of it.</p>
+            <p>And of Old men, none is ſo aged who is not perſwaded, that hee ſhall or may liue yet a Yeare, a Moneth, a Weeke, or at leaſt a Day longer. It will heere bee ſaid, that Heathen men haue wor<g ref="char:EOLhyphen"/>thily diſcourſed of our Mortali<g ref="char:EOLhyphen"/>tie. And who doth not acknow<g ref="char:EOLhyphen"/>ledge that he is Mortall? I grant it, and cannot but admire the ſpeeches which I finde in Hea<g ref="char:EOLhyphen"/>then men, wanting the know<g ref="char:EOLhyphen"/>ledge of GOD and of his Word touching this ſubiect. But how ſpeake they hereof? Much as a Grammer ſcholler, writing or de<g ref="char:EOLhyphen"/>claiming on a Theme which hee doth not well vnderſtand, vtte<g ref="char:EOLhyphen"/>reth many things wittily and
+<pb n="16" facs="tcp:191528:16"/>pretily to the purpoſe; but they are ſuch things, as hee hath ga<g ref="char:EOLhyphen"/>thered out of ſome Authors or haue ſuggeſted vnto him by o<g ref="char:EOLhyphen"/>thers, or fell from him at vna<g ref="char:EOLhyphen"/>wares, more by hap (as wee ſay) then by cunning. Amongſt many ſhafts ſhot by a blind man, it chan<g ref="char:EOLhyphen"/>cheth that ſome flye toward the marke. Wee haue read of ſome ignorant man who in a trance or ſleepe haue ſpoken Latine and Greeke, made Verſes, and talked of wonders, which for the preſent they minde not; nor when they awake, are they able to call to minde. Such like is the Diſcourſe of learned Heathen men concer<g ref="char:EOLhyphen"/>ning Mortalitie, which they learned rather by Ocular obſer<g ref="char:EOLhyphen"/>uation then Diuine inſtruction; and of which they let fall ſome true and graue ſpeeches, but
+<pb n="17" facs="tcp:191528:16"/>without thorough apprehenſion or full vnderſtanding of the point. For they had but a darke glimpſe of that future ſtate which en<g ref="char:EOLhyphen"/>ſueth Death; and knew no<g ref="char:EOLhyphen"/>thing of the true cauſe of this our vanitie and frailtie, which they pored after in the warre and con<g ref="char:EOLhyphen"/>trarietie of the Elements, where<g ref="char:EOLhyphen"/>of our Body is framed; but was truely in ſinne that hath put em<g ref="char:EOLhyphen"/>nitie betweene GOD and vs, and cut vs off from GOD which was our Life. And for the vulgar knowledge of our Mortalitie, what is it, but a fleeting fancie and ſwimming conceit, that ma<g ref="char:EOLhyphen"/>keth no deepe impreſſion nor conſtant apprehenſion of Death and the iſſue of it in our hearts. It is with vs, as with a man viewing himſelfe in a Glaſſe (as Saint IAMES ſpeaketh in ano<g ref="char:EOLhyphen"/>ther
+<pb n="18" facs="tcp:191528:17"/>caſe) who for the preſent doth ſee what his face and figure is, but vpon the turning of his backe doth forget it: Euen ſo, if ſome ſpectacle or ſpeech of our mortalitie bee offered, wee en<g ref="char:EOLhyphen"/>tertaine ſome ſlight thought of it, of the nature and ſequell thereof; but in a moment it doth vaniſh and is ſhlipped out of memory ere it can take any firme footing in vs. Finally, there is a naturall knowledge of our Mortalitie got<g ref="char:EOLhyphen"/>ten from experience of what wee ſee daily from the principles of nature, and literall inſtruction of the word. A carnall man doth at<g ref="char:EOLhyphen"/>taine to this, but with no benefit while it doth ſhew to him onely the out-ſide of this myſterie and giue him but a ſlight view thereof that doth neuer enter his heart, nor enlarge it to a ſerious medi<g ref="char:EOLhyphen"/>tation
+<pb n="19" facs="tcp:191528:17"/>of his fickle ſtate. And there is a ſpirituall knowledge alſo of this thing, which doth lay open our Mortalitie with the cir<g ref="char:EOLhyphen"/>cumſtances of it to the full, and doth preſent to our mindes with ſuch a cleere and conſtant view thereof, that wee cannot but thinke vpon it and lay it to our heart. An Image of it doth ſtill ſtand before our eyes, and a ſi<g ref="char:EOLhyphen"/>lent voyce euer whiſpereth in our eares, that wee dwell in houſes of Clay, haue our foundation in the duſt, and periſh from the Morning vnto the Euening, <hi>Job.</hi> 4.16.19, 20. Whoſoeuer hath gotten this vnderſtanding, hee hath learned it of GOD, who awaking him out of the ſpirituall ſleepe that oppreſſeth carnall men, hath giuen him eyes and ſenſes to ſee beyond them and
+<pb n="20" facs="tcp:191528:18"/>pry more exactly into the myſte<g ref="char:EOLhyphen"/>rie of Mortality, then they can do, who doe but ſuperficially know and more ſlightly lay to heart their mortall caſe with the cauſe and iſſue of it. This then wee may reſolue for certaine, that wee are in a good way of readineſſe for Death, if once wee bee come to a thorough vnderſtanding of theſe things and doe deeply pon<g ref="char:EOLhyphen"/>der them. There is none of com<g ref="char:EOLhyphen"/>mon ſenſe, that doth know and take ſpeciall notice of the com<g ref="char:EOLhyphen"/>ming of a friend or foe, and their intent therein that it is for his ſingular good or vtter vndoing, but will looke about him to bee in ſome readineſſe to receiue the one and reſiſt the other; Euen ſo, if the LORD haue once well en<g ref="char:EOLhyphen"/>formed our mindes of theſe things (I meane the certaine
+<pb n="21" facs="tcp:191528:18"/>comming of Death, the vncer<g ref="char:EOLhyphen"/>taine time thereof, together with the bleſſed iſſue of a good end and miſerable of a bad) it will at once in ſome degree make vs ready for Death, and awake vs to a ſpeciall care more and more, to prepare our ſelues. See tou<g ref="char:EOLhyphen"/>ching this, a worthy paſſage in CALVINS <hi>Inſtitutions, Lib.</hi> 3. <hi>cap.</hi> 9. <hi>ſect.</hi> 2.</p>
+            <p>A ſecond thing which will fur<g ref="char:EOLhyphen"/>ther vs in this worke, is to watch for, and againſt this houre of Death. If wee will not haue the day of the LORD come on vs as a Thiefe in the night, (ſaith bleſ<g ref="char:EOLhyphen"/>ſed PAVL. <hi>Theſ.</hi> 5.8.) let vs not ſleepe as others doe, but <hi>let vs watch and bee ſober.</hi> And <hi>bleſ<g ref="char:EOLhyphen"/>ſed is hee that watcheth,</hi> (ſaith the Holy Ghoſt, <hi>Reuel.</hi> 16.15.) Watching is a word of larger
+<pb n="22" facs="tcp:191528:19"/>ſenſe in theſe and ſuch places of Scripture. But by <hi>Watching</hi> I heere meane (which ſenſe is alſo in them included) an expectation of Death, and ſuch a one, as that wee looke for it euery moment, and make account that wee may, nay, that wee ſhall meete there<g ref="char:EOLhyphen"/>with whereſoeuer wee bee. The flocke is quickly wearied of the Woolfe, and the Houſe is ſoone broken vp and ſpoyled of the Thiefe, if the Shepheard and Good-man of the houſe keepe not good watch againſt them. The Watch not well kept hath oft giuen an opportunitie to the Enemie to enter and ſacke a Towne, to ſurprize an Armie, and cut the throates of the Soul<g ref="char:EOLhyphen"/>diers ſleeping: but, the Enemie which is well Watched, doth much the leſſe hurt. Thus wee
+<pb n="23" facs="tcp:191528:19"/>muſt make ſure reckoning, that Death will take vs at ſome ad<g ref="char:EOLhyphen"/>uantage, and ouertake vs at vna<g ref="char:EOLhyphen"/>wares to our vnſpeakeable hurt, if wee ſet not a good and con<g ref="char:EOLhyphen"/>tinuall ſpirituall Watch againſt him. As then the carefull Sen<g ref="char:EOLhyphen"/>tinell doth expect the Enemie all the night long, ſuſpecting that if hee come not at one houre hee may come at another; if not one way, yet another, and da<g ref="char:EOLhyphen"/>reth not let ſleepe to ſeaze on his eyes no not for a moment; ſo are wee to bee in a like watch<g ref="char:EOLhyphen"/>full expectation of our Death at all times and places. Make wee account, that if hee haue vs not by the backe in our Child-hood, hee will in our Youth; if hee baulke vs in youth, that wee ſhall heare of him in our riper Age; if not then, yet ſurely in our Aged
+<pb n="24" facs="tcp:191528:20"/>yeares. Doth hee ſpare you at home? expect him abroad; Are you layd in your bed? looke for him there to diſeaſe you; Feed you at your boord? looke for him there to bee a gueſt with you; Bee it day or night; bee you alone or in company, in the field or in the Towne, at your ſport or about buſineſſe, let this bee your thought, heere may Death come and arreſt me.</p>
+            <p>This hath beene the ruine of many men, that as ſometime careleſſe Souldiers ſtragling a<g ref="char:EOLhyphen"/>broad without order or armour, preſuming not to meete with any Enemy, haue beene caught in an ambuſh and cut off when they leaſt expected; ſo they not loo<g ref="char:EOLhyphen"/>king for Death then and there, haue beene ſet vpon at vnawares and taken away vnprepared as
+<pb n="25" facs="tcp:191528:20"/>they were. It is then extreame folly for vs in any place or time to promiſe to our ſelues ſecuritie from the ſtroke of Death; an E<g ref="char:EOLhyphen"/>nemy, that (like the <hi>Iewes</hi> againſt PAVL) hath vowed our deſtru<g ref="char:EOLhyphen"/>ction; that will make no league or take no truce with vs; that no brazen Tower can exclude, no Guifts winne, no Prayer intreat; an Enemy that doth chaſe vs con<g ref="char:EOLhyphen"/>tinually, ſometime in viſible forme, of open danger and ſick<g ref="char:EOLhyphen"/>neſſe, ſometime in an inuiſible fi<g ref="char:EOLhyphen"/>gure of ſecret perils and diſeaſes; that hath a thouſand wayes to aſ<g ref="char:EOLhyphen"/>ſault; and as many weapons to kill vs, being neuer farre from vs, and oft neerer then we thinke of; whoſe mortall ſtroke no fence can ward off, nor armour reſiſt. What then can wee doe other (if wee will doe wiſely) but euer
+<pb n="26" facs="tcp:191528:21"/>meditate of our Death and expect it alwayes? Euen as well in the Prime of our yeares as the Win<g ref="char:EOLhyphen"/>ter of our age; in Health as Sick<g ref="char:EOLhyphen"/>neſſe; at a Banquet and in the middeſt of our mirth, as in a Bat<g ref="char:EOLhyphen"/>taile and amongſt the carkaſſes of dead, and cryes of dying men.</p>
+            <p>Yea, but (you will ſay) this will marre all our mirth. For who can laugh and bee merry, if his heart bee euer taken vp with the ſad memory of Death; and ſuch a ghaſtly Image bee ſtill be<g ref="char:EOLhyphen"/>fore his eyes. It may bee that this meditation will indeed quell and coole our Carnall mirth, which wee take in laughing, ga<g ref="char:EOLhyphen"/>ming, dauncing, and ſuch out<g ref="char:EOLhyphen"/>ward things: And if it doe ſo, farewell ſuch mirth. Some af<g ref="char:EOLhyphen"/>firme of <hi>Oxymel</hi> a ſyrupe plea<g ref="char:EOLhyphen"/>ſantly tart, compounded of Wa<g ref="char:EOLhyphen"/>ter,
+<pb n="27" facs="tcp:191528:21"/>Honey, and wine Vineger boyled together, that where Flegme doth abound, it auayleth prettily to extenuate and cleanſe it away; but if that bee wan<g ref="char:EOLhyphen"/>ting, it preyeth on the ſubſtance and ſtrength it ſelfe of Nature; and the frequent vſe of it rotteth the Teeth, dulleth the Sight, hur<g ref="char:EOLhyphen"/>teth not ſeldome the Stomacke, alwayes the Sinewes: It may bee then wholeſome as a medi<g ref="char:EOLhyphen"/>cine, to them that are circum<g ref="char:EOLhyphen"/>ſpect in the vſe of it; but it is in<g ref="char:EOLhyphen"/>euitably hurtfull to them, that turne it into a vſuall food: Euen ſo this worldly mirth is highly prized, and praiſed as a ſoue<g ref="char:EOLhyphen"/>raigne medicine to preſerue our bodily health, and to put ouer ſorrowes and qualmes off the heart, wherein alſo perhaps it may doe ſomewhat, wiſely and
+<pb n="28" facs="tcp:191528:22"/>warily vſed; but it is perillous, yea pernicious, to the ſound ſtate of our better part, our Soule, I meane; chiefely, if it bee follow<g ref="char:EOLhyphen"/>ed as a Trade and taken vp as a dayly Diet. For what doth it but ſteale our hearts from GOD, our time from his ſeruice, make the Diuell a faire way to enſnare vs, and giue Death an opportu<g ref="char:EOLhyphen"/>nitie to ſeaze vpon vs at vna<g ref="char:EOLhyphen"/>wares. And then what commeth of all our merriment and ſport, but euerlaſting woe and lamen<g ref="char:EOLhyphen"/>tation? As CHRIST hath it in <hi>Luke,</hi> 6.25. <hi>Woe bee vnto you that laugh; for you ſhall mourne and lament.</hi> No good ſeed doth proſper in ground that is too ranke and rich; Nor is there any place in an heart diſpoſed onely to this Carnall mirth, for godly ſorrow, true repentance, feruent
+<pb n="29" facs="tcp:191528:22"/>and frequent prayer, ſerious me<g ref="char:EOLhyphen"/>ditation of GODS Word, nor finally, for this ſerious Spirituall wiſedome, in making ready for Death; of which the heart car<g ref="char:EOLhyphen"/>nally merry, cannot endure the ſight or thought. Anger or griefe (ſaith SALOMON <hi>Eccleſ.</hi> 7.5.) is better then laughter; for by a ſad Countenance the heart is made better. Our Children learne not moſt where they laugh moſt, and haue moſt ſport and play. The beſt Schoole for lear<g ref="char:EOLhyphen"/>ning is a place of ſober and mo<g ref="char:EOLhyphen"/>derate Diſcipline, to reſtraine Children from wanton liberty and ſometime to make them ſmart for it, and other faults. So the ſchoole of CHRIST, where wee are to learne true wiſedome, is not the Houſe of mirth and feaſting, but of godly
+<pb n="30" facs="tcp:191528:23"/>ſorrow and mourning. Wee ſhall then ſuſtaine no loſſe, if by this meditation of Death wee leeſe and abate any thing of this worldly mirth, which is the bane of our ſoules health. But for our true ſpirituall Ioy in GOD it will further that, ma<g ref="char:EOLhyphen"/>king vs ſo much the more to minde and ſeeke heauenly things to ſolace our hearts in the hope of them, to haſten our repen<g ref="char:EOLhyphen"/>tance, and labour for the aſſu<g ref="char:EOLhyphen"/>rance of a life more ſtable and certayne, by how much the more wee minde the vncertain<g ref="char:EOLhyphen"/>ty and end of this our Mortall life, and all the comforts of it. And as for lawfull and Chriſtian ſolace in outward bleſſings, it will not hinder that, but direct and keepe it within compaſſe, that it bring not an obliuion of
+<pb n="31" facs="tcp:191528:23"/>GOD and better things on vs, and a ſecuritie in the neglect of our ſaluation and the meanes thereof. It is not briefely the Chriſtian expectation of Death, that will marre our good and ho<g ref="char:EOLhyphen"/>neſt mirth, but a ſeruile feare thereof, and vnreadineſſe for it. The more that wee ſhall in a Chriſtian ſort expect Death, the more ready ſhall wee bee for it, and the leſſe ſhall wee ſtand in feare of it. As a man forewar<g ref="char:EOLhyphen"/>ned, is thereby alſo well fore<g ref="char:EOLhyphen"/>armed; ſo a godly expectation of Death, is a good degree of preparation thereunto.</p>
+            <p>In the third place, this wee muſt take heed of, that wee bee not farre engaged into the world, nor deepely plunged into the affaires of it, if wee will bee in a readineſſe for Death. The ap<g ref="char:EOLhyphen"/>proach
+<pb n="32" facs="tcp:191528:24"/>of the Enemy and the all<g ref="char:EOLhyphen"/>arme vnto the Battaile, is vnwel<g ref="char:EOLhyphen"/>come and heauy newes vnto a Souldier, who is turned Mer<g ref="char:EOLhyphen"/>chant, that hath great Trade by Land and Sea, hath got his houſes full of Merchandize and Coffers of money; or is become a iolly Farmer, hauing about him a great ſtocke of Corne or Cat<g ref="char:EOLhyphen"/>tle; And ſo will Death bee vnto vs, if wee keepe our hands full of worldly buſineſſe, and haue our hearts ſet on the cares and pleaſures thereof. <hi>No man</hi> (ſayth PAVL, 2. <hi>Timoth.</hi> 2.4.) <hi>that goeth on Warre-fare is intan<g ref="char:EOLhyphen"/>gled with the buſineſſes of this Life, that hee may pleaſe him which hath choſen him for a Soul<g ref="char:EOLhyphen"/>dier.</hi> It is a ſpeciall point of a good Souldier, to bee alway rea<g ref="char:EOLhyphen"/>dy at his Captaynes call, bee it
+<pb n="33" facs="tcp:191528:24"/>neuer ſo ſodaine. Such a one will therefore keepe himſelfe free from other imployments, that all times hee may attend his Captaynes pleaſure in going whether hee ſhall ſend him, and doing what hee ſhall Command. What are wee, but GODS Souldiers vnder IESVS CHRIST our Generall? whom to pleaſe ought to bee our ſpeciall care; and to that end muſt wee keepe our hearts and hands free from the intanglements of this worlds affaires and delights, that wee may at all times bee ready for whatſoeuer ſeruice hee ſhall put vs to, bee it to hazard our liberty, credit, or wealth, for his names ſake; or at his call though very ſuddaine, to lay downe and giue vp our liues. Surely, to meddle farre with worldly matters and
+<pb n="34" facs="tcp:191528:25"/>hamper our ſelues, with them, muſt needes bee a maine impedi<g ref="char:EOLhyphen"/>ment to this readineſſe. For theſe cares and pleaſures, if once they inſinuate into vs, will ſo intrench themſelues in our heart, that it will not bee eaſie to ex<g ref="char:EOLhyphen"/>pell them: Nay, they will juſtle out of place or much hinder this moſt ſpeciall and greateſt care to make ready for Death, drow<g ref="char:EOLhyphen"/>ning all thought thereof by their continuall buzzing in our hearts and eares; and taking away our time by worldly employments, which they will one after ano<g ref="char:EOLhyphen"/>ther without reſt put vpon vs. Good-fellowes (as they are miſ<g ref="char:EOLhyphen"/>named) and Ruffians, cannot brooke the preſence of ſober and ciuill men; nor will they ad<g ref="char:EOLhyphen"/>mit of ſuch into their Chamber where they intend to bee frolike
+<pb n="35" facs="tcp:191528:25"/>and merrie; or at leaſt will not reſt till they haue thruſt them out of doores, if by chance they bee amongſt them. As ill can world<g ref="char:EOLhyphen"/>ly cares and pleaſures conſiſt and agree with ſpirituall and religi<g ref="char:EOLhyphen"/>ous, which they will eyther greatly diſturbe, or vtterly, put out of place, as whoſe fellow<g ref="char:EOLhyphen"/>ſhip is vnpleaſing to them. Nay, to ſay truth, godly thoughts and purpoſes cannot thriue and grow vp to their maturitie, among worldly cares and pleaſures, <hi>Which as Thornes and Bryers o<g ref="char:EOLhyphen"/>uerſhadow and choake vp the good ſeed of GODS Word, ſowen in the Hearts of men.</hi> Luk. 8.14. Beſides, this vnſpeakeable miſ<g ref="char:EOLhyphen"/>chiefe, how vnwilling doe they make vs to depart this Life, when our time approacheth. O Death (ſaith one) how bitter is thy re<g ref="char:EOLhyphen"/>membrance,
+<pb n="36" facs="tcp:191528:26"/>to a man that hath pleaſure in his Riches? But how much more terrible is the pre<g ref="char:EOLhyphen"/>ſence it ſelfe of Death to ſuch a one? Did not the backward<g ref="char:EOLhyphen"/>neſſe of the Gueſts which were inuited to the Kings wedding Feaſt come from hence, euen from their worldly cares, plea<g ref="char:EOLhyphen"/>ſures, and buſineſſe? One, <hi>had a Farme which hee muſt needes goe out and ſee;</hi> Another, <hi>had a yoake of Oxen to proue;</hi> A third, <hi>had married a Wife, whom hee muſt Wayte on and a Family growing on him which hee muſt care for.</hi> Luk. 14.18. <hi>&amp;c.</hi> Thus, for one thing or other, none could finde leaſure or get their goodwils to come vnto the Feaſt; that is, to embrace the Goſpell of IESVS CHRIST. From the ſound profeſſion whereof, if worldly
+<pb n="37" facs="tcp:191528:26"/>profits and pleaſures, doe keepe vs, when yet it doth permit vs ſoberly to vſe and enioy the ſame; much more will they make vs vnwilling to dye, when wee muſt leaue all ſuch things, and appeare before our Iudge Almightie GOD, to giue ac<g ref="char:EOLhyphen"/>count how wee haue gotten and vſed them. Is it not an ordinary complaint of men, that Death doth come too ſoone vpon them? And whence growes it, but here<g ref="char:EOLhyphen"/>of, that they are too much enſna<g ref="char:EOLhyphen"/>red and entangled with the World? For, what doth the Young-man complaine of, but that hee is taken away in the flowre of his yeares, before hee doth know the world, and haue thoroughly taſted the pleaſures of it? And what doth the El<g ref="char:EOLhyphen"/>der alledge, but that hee dyes
+<pb n="38" facs="tcp:191528:27"/>in the middeſt of much buſineſſe, and hotteſt purſuite of his game? The one could bee content (hee thinkes) to dye, if hee had well ſatisfied himſelfe with the de<g ref="char:EOLhyphen"/>lights and pleaſures of the world: and the other, if hee had brought about the world to his minde, for his Wife and Chil<g ref="char:EOLhyphen"/>dren. It is then a great let vnto our readineſſe, to remoue hence when wee ſtep too farre into the world, and hamper our ſelues with the affaires thereof. Where<g ref="char:EOLhyphen"/>in alſo wee are deceiued by a vaine confidence, that wee can at our pleaſure and on ſhort war<g ref="char:EOLhyphen"/>ning, vnwinde our ſelues from theſe intanglements, and rid our hands of them.</p>
+            <p>But how, alas! was poore SAMPSON beguiled with this conceit? When ſuffering
+<pb n="39" facs="tcp:191528:27"/>DALILAH to ſhaue off his lockes againſt his vow, and to fet<g ref="char:EOLhyphen"/>ter him, hee thought, as at other times; the Philiſtims aſſailing him, to breake all and free himſelfe, but the Lord, beſide his expectation, being gone from him, he was not able ſo to doe, but was taken pri<g ref="char:EOLhyphen"/>ſoner by them, and his eyes be<g ref="char:EOLhyphen"/>ing put out, he became a drudge to grinde in priſon, and a May-game vnto his enemies. No leſſe feare is there that they who ſuffer themſelues to bee intangled and fettered with worldly occaſions ſhall finde it much harder to cleere themſelues then they imagined. For earthly cares and pleaſures are very heauy ſtuffe and preſſe downe, yea, oppreſſe ſuch ſoules as vndertake them, <hi>Luk</hi> 21.34. And they doe further beſide their weight, beſet vs with ſuch cun<g ref="char:EOLhyphen"/>ning,
+<pb n="40" facs="tcp:191528:28"/>and hang ſo faſt vpon vs as it is, <hi>Heb.</hi> 12.1. that wee cannot eſcape from them and ſhake them off at pleaſure. If wee haue made them our familiars in our health, they will not in ſickneſſe be caſt off, but like importunate companions, will then hang a<g ref="char:EOLhyphen"/>bout vs, preſſe vpon vs, hinder our beſt conſultations about our laſt paſſage, diſtract our thoughts to thinke and diſpoſe of them, and dull our ſpirits that wee ſhall not be able to pray, to receiue, and apprehend any ſpirituall in<g ref="char:EOLhyphen"/>ſtructions and comforts, or con<g ref="char:EOLhyphen"/>ſtantly and cheerefully to me<g ref="char:EOLhyphen"/>ditate on the future life. As a poore bird caught in a ſnare at vnawares feedeth ſecurely, not miſtruſting her owne freedome; vntill vpon the ſight of the Fow<g ref="char:EOLhyphen"/>ler ſhee aſſailing to flye away, fin<g ref="char:EOLhyphen"/>deth
+<pb n="41" facs="tcp:191528:28"/>her ſelfe to hang faſt, and that the more ſhee ſtruggleth and fluttereth to get looſe, the more ſhe doth intangle her ſelfe, and ſo beating her ſelfe to extreme wea<g ref="char:EOLhyphen"/>rineſſe, ſhee at length falleth into the Fowlers hands: Euen ſo our ſoules being entangled with cares and pleaſures, as it were ſnares, wee all the time of our health nothing doubt, but that wee are free enough, vntill that vpon the approach of Death when wee would get looſe, wee finde our ſoules ſo faſt hung and fettered, that with all their ſtruggling and contention they cannot eſcape, but, vnleſſe God of ſingular mer<g ref="char:EOLhyphen"/>cy ſet them free, they become a prey to death, and to him that hath the power of death; that is, the Deuill. The Lord therefore giue vs wiſedome to keepe our
+<pb n="42" facs="tcp:191528:29"/>hearts free from theſe ſnares, to haue our conuerſation without couetouſneſſe, and to be content with things preſent: The Lord teach vs to keepe within com<g ref="char:EOLhyphen"/>paſſe, that wee doe not ouerload our hearts and heads with world<g ref="char:EOLhyphen"/>ly cares, nor out of an inordinate loue of the world, thruſt and in<g ref="char:EOLhyphen"/>gage our ſelues further thereinto then that with eaſe and at the firſt call, wee may retire. It were an happy thing for vs (I am ſure) if wee would imbrace that good aduiſe of St. <hi>Paul,</hi> 1 Cor. 7. that is, <hi>hauing wife and children, to bee as if wee had none:</hi> Hauing bought or otherwiſe gotten large reue<g ref="char:EOLhyphen"/>newes, to be as if wee poſſeſſed no ſuch thing, and to vſe the world as thoſe that did not vſe it, or would not abuſe it. Whatſoe<g ref="char:EOLhyphen"/>uer comforts, as wife, children,
+<pb n="43" facs="tcp:191528:29"/>wealth, credit, dignity, GOD ſhall beſlow vpon vs, there is no doubt but that hee doth allow vs to vſe them as ſome ſolace to vs in this land of our Pilgrimage; occaſions of honeſt labour and trauaile: and furtherances of doing good and our better ſer<g ref="char:EOLhyphen"/>uing him. But ſuch a looſe affe<g ref="char:EOLhyphen"/>ction ought wee alway to carry toward them, that the inordi<g ref="char:EOLhyphen"/>nate loue of them doe neyther cauſe vs to make any breach in our Conſcience to get or keepe them, nor to encumber our ſelues with worldly buſineſſe while wee heere ſojourne; nor at GODS ſummons to bee vnwilling eyther to hazard them all for the Truths ſake, or by Death to goe away from them all. Nay, ſuch ought to bee the diſpoſition of our heart toward theſe earthly Comforts,
+<pb n="44" facs="tcp:191528:30"/>that when Death doth warne vs it ſhould bee all one with vs as if wee had none of them; and no leſſe ready ſhould wee bee to leaue our beſt contentments and faireſt hopes, to goe vnto the LORD, then if our life were wholly voyde and deſtitute of them; yea, were full of troubles and afflictions.</p>
+            <p>The fourth thing which will ſpecially prepare vs for Death, is, to looke hereunto, that wee bee alway in a Spirituall manner well cloathed and armed from top to toe. The armed Souldier is rea<g ref="char:EOLhyphen"/>dy for the skirmiſh vpon ſhort warning, and the better hee is appointed, with the more cou<g ref="char:EOLhyphen"/>rage doth hee enter the Field. If a man bee ready girt and fully cloathed, you may diſpatch him away on a ſuddaine journey;
+<pb n="45" facs="tcp:191528:30"/>which, a naked man or halfe-ap<g ref="char:EOLhyphen"/>parelled cannot vndertake, but vpon greater leyſure.</p>
+            <p>So heere, if wee haue our Spi<g ref="char:EOLhyphen"/>rituall cloathing and armour e<g ref="char:EOLhyphen"/>uer well girt and cloſely buckled vnto vs, wee ſhall neuer bee vn<g ref="char:EOLhyphen"/>ready for this battaile, nor vn<g ref="char:EOLhyphen"/>fit to take our journey hence vp<g ref="char:EOLhyphen"/>on the ſhorteſt warning.</p>
+            <p>To ſpeake ſomewhat of them in ſeuerall. <hi>Behold, J come as a Thiefe,</hi> ſayth our Sauiour CHRIST, <hi>Reuel.</hi> 16.15. And what then? Why? Bleſſed is hee that watcheth and keepeth his garments, that hee walke not na<g ref="char:EOLhyphen"/>ked and men ſee not his filthi<g ref="char:EOLhyphen"/>neſſe. Bee CHRISTS comming; bee our Death neuer ſo ſuddaine, there is no feare of our well do<g ref="char:EOLhyphen"/>ing, if wee keepe our garments about vs to couer our nakedneſſe,
+<pb n="46" facs="tcp:191528:31"/>and hide our filth from GODS eyes.</p>
+            <p>Now, what theſe Garments bee wee are told <hi>Reuel.</hi> 19.7, 8. <hi>The marriage of the Lambe is come and the Bride hath made her rea<g ref="char:EOLhyphen"/>dy; And it is giuen her that ſhee ſhould bee cloathed with Linnen pure and ſhining.</hi> And what is this pure and ſhining Linnen? It is as there followeth, The righte<g ref="char:EOLhyphen"/>ouſneſſe of the Saints. Righte<g ref="char:EOLhyphen"/>ouſneſſes (ſayth the Scripture) not Righteouſneſſe onely. For it is a double garment wherewith wee muſt bee clad. One is an in<g ref="char:EOLhyphen"/>ner garment, ſo to call it, that is the righteouſneſſe of Faith; name<g ref="char:EOLhyphen"/>ly, CHRISTS righteouſneſſe, Obedience, and Merits, reckoned ours by GOD, and apprehended by Faith. The other is an outer garment, that is, The righteouſ<g ref="char:EOLhyphen"/>neſſe
+<pb n="47" facs="tcp:191528:31"/>of a good Life through the ſanctification of the Spirit, that doth renew vs to the loue, know<g ref="char:EOLhyphen"/>ledge, and feare of GOD, and ingender in vs a generall and conſtant care and purpoſe to walke in the wayes of GOD.</p>
+            <p>Theſe are the Wedding gar<g ref="char:EOLhyphen"/>ments, theſe the pure and ſhi<g ref="char:EOLhyphen"/>ning rayments of the Chriſtian ſoule; with the which, who ſo is apparelled, as a Bride beeing richly decked in her Wedding habite, is ready to conſummate the marriage with her deareſt Bridegroome; for is hee alwayes in readineſſe to goe hence and ap<g ref="char:EOLhyphen"/>peare before the LORD in the Heauens. For, there is no good vſe, which our garments per<g ref="char:EOLhyphen"/>forme vnto our Body, which this ſpirituall rayment doth not richly performe vnto our Soule. Our
+<pb n="48" facs="tcp:191528:32"/>garments, firſt, are couers for our nakedneſſe to hide our vnſeemely parts and ſecret deformities, from the view of men; ſecondly, they keepe vs warme, and defend vs from Winters cold, ſharpe blaſts, and other annoyances of the weather; thirdly, they diſtin<g ref="char:EOLhyphen"/>guiſh and put a difference be<g ref="char:EOLhyphen"/>tweene Nations, Sexes, and De<g ref="char:EOLhyphen"/>grees of men. So one is the ha<g ref="char:EOLhyphen"/>bit of the French, another of the Dutch; one of the Woman, ano<g ref="char:EOLhyphen"/>ther of the Man; one of the Gen<g ref="char:EOLhyphen"/>tleman, another of the Yeoman. Laſtly, they doe ſerue to decke and adorne our perſons by their comely ſhew, procuring vs ac<g ref="char:EOLhyphen"/>ceptance, and adding to our re<g ref="char:EOLhyphen"/>ſpect before men.</p>
+            <p>Thus, if wee be cloathed with the fine ſhining Linnen of the Bride, this Righteouſneſſe of the
+<pb n="49" facs="tcp:191528:32"/>Saints, our ſpirituall nakedneſſe is thereby couered, and all our ſe<g ref="char:EOLhyphen"/>cret filth and deformity hid from Gods eye, that it appeare not to our confuſion; wee ſhall alſo feele our Soules to be filled with much ſpirituall Peace and Comfort, and well guarded againſt all chilling feares, and killing horrours of GODS wrath, that gripe and ſting the hearts of wicked wret<g ref="char:EOLhyphen"/>ches; then, wee ſhall thereby bee made knowne both to GOD and Men, from prophane and vn<g ref="char:EOLhyphen"/>godly perſons. Heereby are ma<g ref="char:EOLhyphen"/>nifeſt the ſonnes of GOD, and the ſonnes of the Diuell: <hi>Whoſo<g ref="char:EOLhyphen"/>euer doth not Righteouſneſſe, is not of GOD.</hi> 1. Iohn, 3.10. Laſtly, wee ſhall heereby be commended vnto GOD, and preſented be<g ref="char:EOLhyphen"/>fore him, holy, pure, innocent and glorious, and finde fauour in his
+<pb n="50" facs="tcp:191528:33"/>eyes to bee accepted as his ſonnes and daughters, to bee re<g ref="char:EOLhyphen"/>puted meete Brides for IESVS CHRIST, and to bee made Glorious and for euer Bleſſed a<g ref="char:EOLhyphen"/>mong the Saints. It is a folly, to tricke and trim our ſelues with any other garments againſt that day. A ſilken coat, though ſpan<g ref="char:EOLhyphen"/>gled with Gold and glittering with Pearles as ſtarres, will not doe vs any ſeruice at that houre: Nothing will heere ſerue our turnes but a good Conſcience purged by Faith in the Blood of CHRIST. For, all externall ornaments though moſt gorge<g ref="char:EOLhyphen"/>ous, haue no Iuſtre in GODS eyes; and if they had, yet at this time they would nothing auayle vs. For Death, will ſtrip vs of them; and pulling vs out of our falſe and borrowed habite, will
+<pb n="51" facs="tcp:191528:33"/>lay vs and all our filthineſſe naked to the view of God, and his holy Angells. But for theſe robes of Righteouſneſſe, if wee haue got<g ref="char:EOLhyphen"/>ten them, death cannot rob vs of them, nor plucke them from vs; but maugre death, we ſhall carry them with vs to preſent vs holy and ſpotleſſe before God.</p>
+            <p>And in truth which is it that doth make vs ſhrinke at Death, and ſo vnready for it, but a con<g ref="char:EOLhyphen"/>ſcience of our ſpirituall naked<g ref="char:EOLhyphen"/>neſſe? Death wee know will drawe vs before the glorious pre<g ref="char:EOLhyphen"/>ſence, and ſet vs in the view of Almighty God, whoſe eyes are purer then light, brighter then the Sunne; whoſe Maieſtie doth dazle the eyes of the Cherubins, and maketh them to couer their faces before it. Now with man is there ſo deſtitute of ſhame<g ref="char:EOLhyphen"/>faced
+<pb n="52" facs="tcp:191528:34"/>baſhfulneſſe, that being na<g ref="char:EOLhyphen"/>ked and beſides miſhapen, filthy and deformed, would not bee much aſhamed to come foorth in publike view, and much more to ſhew himſelfe in a full aſſembly before the Prince and his Nobles. Sure it is, that King DAVIDS ſeruants whom HANVN King of <hi>Ammon</hi> had vſed with that re<g ref="char:EOLhyphen"/>proach, as to ſhaue off halfe their beards, and cut off their gar<g ref="char:EOLhyphen"/>ments by their buttockes, poore men, were exceedingly aſhamed of themſelues, and loth to bee ſeene, 2. <hi>Sam.</hi> 10. And how then can wee but be aſhamed and con<g ref="char:EOLhyphen"/>founded to appeare before ſo ex<g ref="char:EOLhyphen"/>cellent and glorious a preſence, as is the God of glory, all his Saints and Angells, while our conſcien<g ref="char:EOLhyphen"/>ces tell vs that wee be ſpiritually naked; yea, very filthy and defor<g ref="char:EOLhyphen"/>med,
+<pb n="53" facs="tcp:191528:34"/>and then alſo want this pure linnen of Chriſts Spouſe to couer and hide our filthineſſe and na<g ref="char:EOLhyphen"/>kedneſſe from Gods eyes. When ADAM and EVE ſaw themſelues to be naked, they were afraid of Gods voyce, and out of ſhame hid themſelues from his preſence, <hi>Gen.</hi> 3.8.10. But what nakedneſſe made them thus to feare and bee aſhamed? That of the body? No ſurely, that was a lying ex<g ref="char:EOLhyphen"/>cuſe. For before their finne they were ſo naked, and yet did bold<g ref="char:EOLhyphen"/>ly and without bluſhing conuerſe with God, <hi>Gen.</hi> 2.25. It was their ſpirituall nakedneſſe, the loſſe of that glorious cloathing of righteouſneſſe and holineſſe wherewith God had adorned them, which made them thus aſhamed of themſelues, and thus to tremble at Gods voyce and
+<pb n="54" facs="tcp:191528:35"/>preſence. What was it but the want of this ſpirituall wedding garment, that did ſtrike the gueſt dumbe and ſpeechleſſe, <hi>Mat.</hi> 22.12. which had thruſt himſelfe in<g ref="char:EOLhyphen"/>to the Wedding feaſt without it? For outward habit, it is like, hee was as handſome as any other gueſt; yea, it may bee for exter<g ref="char:EOLhyphen"/>nall appearance of holineſſe not inferiour to them: but being de<g ref="char:EOLhyphen"/>ſtitute of the true ſpirituall wed<g ref="char:EOLhyphen"/>ding garment, <hi>viz.</hi> righteouſneſſe in Chriſt, a good conſcience, and faith vnfained, when the King came in to take a ſuruey of his gueſts, and fell to examine him, with Friend how cameſt thou in hither, and haſt not on a wedding garment, he could not abide the tryall, nor ſuſtaine his preſence, whereas the other gueſts that were therewith decked, were no<g ref="char:EOLhyphen"/>thing
+<pb n="55" facs="tcp:191528:35"/>appalled at the Kings pre<g ref="char:EOLhyphen"/>ſence, but ſtood boldly before him, and feaſted cheerefully at his table. Till then wee can get this ſpirituall cloathing, and bee decked with theſe ſpirituall robes of righteouſneſſe by faith, and an holy conuerſation, wee ſhall not be able with true confidence to appeare before our God. But if wee be clothed therewith as be<g ref="char:EOLhyphen"/>commeth Saints, then as SALO<g ref="char:EOLhyphen"/>MONS Queene, being clad in a garment of the gold of Ophir, ſtood boldly at the right hand of her King, <hi>Pſal.</hi> 45. and as a man bluſheth not to come forth be<g ref="char:EOLhyphen"/>fore any preſence, being apparel<g ref="char:EOLhyphen"/>led in ſome comely ſort for his calling and degree, ſo ſhall wee euer be able with confidence to come before the King of heauen, and the peeres of that heauenly
+<pb n="56" facs="tcp:191528:36"/>court, neither ſhall wee bee afraid when death as Gods Sergeant ſhall cite and ſummon vs there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>But now wee muſt not onely be fairely clothed to vndergoe this ſeruice with ſucceſſe, but alſo thorowly armed. Touching which, PAVL a worthy Cap<g ref="char:EOLhyphen"/>taine in the Lords army, and of great experience in the ſpirituall warfare doth thus aduiſe, <hi>Epheſ.</hi> 6.11.13. Put yee on and take vn<g ref="char:EOLhyphen"/>to you the whole armour of God, that yee may be able to reſiſt in the euill day, and hauing finiſhed all things ſtand faſt. Of all the euill daies where with wee ſhall be tried as there is none more certaine, ſo none is more peril<g ref="char:EOLhyphen"/>lous and pernitious then the day of our death, wherein if we ouer<g ref="char:EOLhyphen"/>come, wee are for euer ſafe, if
+<pb n="57" facs="tcp:191528:36"/>wee be foyled; eternally vndone. In the which day wee haue no way to ſtand faſt and goe away conquerours, but by putting on Gods complete armour which will ward all blowes, and war<g ref="char:EOLhyphen"/>rant vs the victory. Doe you de<g ref="char:EOLhyphen"/>ſire to know what this armour is, and the parts of it? There is firſt (as they are reckoned vp, verſes 14.15. <hi>&amp;c.</hi>) Verity, that is truth in our inward parts, and ſincerity in ſeruing God, doing all things with ſingleneſſe of heart, and not in hypocriſie fol<g ref="char:EOLhyphen"/>lowing that which is good for its owne ſake, as pleaſing to God, and commanded by him, not to purchaſe the good will and ap<g ref="char:EOLhyphen"/>plauſe of men, to gaine honour, profit, <hi>&amp;c.</hi> And this muſt be as a belt and girdle to gird vp the loynes of our mindes vnto euery
+<pb n="58" facs="tcp:191528:37"/>good worke. It is an old ſaying, that a man vngirt is vnbleſt; here it is moſt true, that hee is a man voide of all grace, and ſo farre from GODS bleſſing that wan<g ref="char:EOLhyphen"/>teth this girdle of Truth about his loynes. Next, for a breſt plate to defend the heart, the ſeate as of Naturall, ſo of Spirituall life, there is added righteouſneſſe. And what is that, but an vnfai<g ref="char:EOLhyphen"/>ned and conſtant purpoſe and in<g ref="char:EOLhyphen"/>deauour to keepe a good Conſci<g ref="char:EOLhyphen"/>ence before GOD and Men, de<g ref="char:EOLhyphen"/>ſiring to liue honeſtly in all things, to walke in all the wayes of GOD, and ſhunne euery wic<g ref="char:EOLhyphen"/>ked way and worke of darkneſſe. Thirdly, for ſhowes PAVL doth commend, ſay ſome patience; but as I rather take it, the know<g ref="char:EOLhyphen"/>ledge of the Goſpell, which doth publiſh to vs our peace and re<g ref="char:EOLhyphen"/>conciliation
+<pb n="59" facs="tcp:191528:37"/>with GOD; where<g ref="char:EOLhyphen"/>with wee muſt furniſh and pre<g ref="char:EOLhyphen"/>pare our ſelues, that wee may the better hold on our courſe tho<g ref="char:EOLhyphen"/>rough the moſt rough and thorny wayes, and the thickeſt troupes of our Enemies toward GOD, and that cheerily, knowing that wee walke toward him that is at peace with vs in CHRIST, and will at length ſend vs peace and giue vs reſt from all our trou<g ref="char:EOLhyphen"/>bles. Fourthly, for a ſhield wee muſt take vnto our ſelues, and that aboue all things Faith, <hi>viz.</hi> A true juſtifying Faith, that doth diue and plunge it ſelfe ouer-head and eares (ſo to ſpeake) into the wounds and blood of CHRIST, doth caſt it ſelfe and wholly reſt on him for Righteouſneſſe and Pardon of ſinne, aſſuring vs of CHRIST his dwelling in vs,
+<pb n="60" facs="tcp:191528:38"/>and his beeing ours for Righteouſ<g ref="char:EOLhyphen"/>neſſe, Wiſedome, Holineſſe and Redemption, with the vnchange<g ref="char:EOLhyphen"/>ableneſſe of GODS loue and goodwill toward vs. For this is the onely piece of armour that can repulſe, or if they doe faſten vpon vs, quench the fiery darts of Sathan, that is, pacifie and quiet all helliſh feares and hor<g ref="char:EOLhyphen"/>rours wherewith hee doth terri<g ref="char:EOLhyphen"/>fie our Conſciences, thorough the remorſe of our ſinnes and appre<g ref="char:EOLhyphen"/>henſion of Gods wrath, and ſi<g ref="char:EOLhyphen"/>lence all thoſe wofull doubts which hee doth raiſe in our hearts about our election and ſaluation. Fiftly, a bleſſed hope and expe<g ref="char:EOLhyphen"/>ctation of Eternall life, for CHRISTS ſake promiſed to vs, muſt ſerue for our helmet which wee muſt put on, that wee may be able at all times and eſpecially
+<pb n="61" facs="tcp:191528:38"/>at our Death, to hold vp our head in a cheerefull manner, as know<g ref="char:EOLhyphen"/>ing that then the day of our Re<g ref="char:EOLhyphen"/>demption doth approach. Sixtly, the Word of GOD, that is, the Sword which wee are to gird vn<g ref="char:EOLhyphen"/>to our thighes, making vſe of all the parts thereof, as hiding vp in our heart the pretious promiſes thereof to ſuccour our faith, and vphold our fainting hope; the threats and judgements to re<g ref="char:EOLhyphen"/>preſſe our rebellious fleſh, and op<g ref="char:EOLhyphen"/>poſe againſt the ſweet and frau<g ref="char:EOLhyphen"/>dulent inticements of ſinne: the commandements to direct our pathes, and ſpurre on our dili<g ref="char:EOLhyphen"/>gence in doing good; the prohi<g ref="char:EOLhyphen"/>bitions as bits to reſtraine our wandring appetites and wan<g ref="char:EOLhyphen"/>ton luſts; the truthes to eſta<g ref="char:EOLhyphen"/>bliſh vs againſt all erroneous and falſe doctrine of ſuch as lye in
+<pb n="62" facs="tcp:191528:39"/>waite to ſeduce vs. Laſtly prayer euen in all kinde, and that feruent and continuall muſt not bee neg<g ref="char:EOLhyphen"/>lected, by which we are to begge of Almighty God skill to vſe this ſpirituall armour, and a good iſſue in this fight. Which is a man armed at all points, and vn<g ref="char:EOLhyphen"/>skilfull in the vſe of it, but a Por<g ref="char:EOLhyphen"/>ter heauily laden, or a Priſoner ſhackled in his fetters? All the ſuccour that wee haue from our ſpirituall armour, ſtandeth in the good vſe we make thereof; which wee cannot otherwiſe obtaine, but by prayer from God, who a<g ref="char:EOLhyphen"/>lone teacheth our fingers to fight his battailes, traineth vs vp in this warfare, giueth vs courage, ma<g ref="char:EOLhyphen"/>keth vs ſtrong in him, and in the power of his might. Neglect this and it is all one, as if we were vnarmed: Neither can wee bee
+<pb n="63" facs="tcp:191528:39"/>ſound and ſincere of heart, nor follow righteouſneſſe to the full, nor haue the whole comfort of our knowledge, hope and faith; nor well ma<g ref="char:EOLhyphen"/>nage the ſword of the ſpirit, that is GODS word to quell our ſpirituall foes, if wee doe not ioyne to theſe, much and often prayer. For Prayer is as a whetſtone to ſharpen the edge of this ſword, to make it cut vnto the quicke, and goe home; and the furnace where<g ref="char:EOLhyphen"/>in the other pieces of this armour muſt bee wrought to their right temper, that they may bee of proofe and impe<g ref="char:EOLhyphen"/>netrable. And if then wee bee thus armed, Death can at no time ſet on vs to our hurt; And what need hee feare the approch of death? that being
+<pb n="64" facs="tcp:191528:40"/>conſcious to himſelfe that his heart is voide of guile, and vp<g ref="char:EOLhyphen"/>right toward GOD, and being daily imployed in doing Gods will, and exerciſing himſelfe to all righteouſneſſe, doth vn<g ref="char:EOLhyphen"/>derſtand by the Goſpell as a meſſage ſent from heauen, that God is at peace with him; is by faith perſwaded of his in<g ref="char:EOLhyphen"/>tereſt in IESVS CHRIST and all his merits, for the pardon of his ſinnes, and to ſet him free from Gods vengeance and hell fire; hath an aſſured hope after death to enioy that in<g ref="char:EOLhyphen"/>corruptible Crowne of glory, which is reſerued for him in the heauens; and while hee waiteth for it, doth walke vn<g ref="char:EOLhyphen"/>der the ſafegard, and in the light of Gods word, trembling at the iudgements, taking di<g ref="char:EOLhyphen"/>rection
+<pb n="65" facs="tcp:191528:40"/>from the precepts, re<g ref="char:EOLhyphen"/>ioycing in the diuine myſteries, and receiuing comfort from the promiſes thereof; and can pray with ſighes and grones vnut<g ref="char:EOLhyphen"/>terable vnto GOD, euen in the agony of death for his mercy and ayde, which at no time ſhall faile to ſuccour him, and much leſſe in that laſt conflict and bickering. The hills may ſooner fall, and the pillars of the Earth bee ſhaken, then the eſtate of this man can be ouer<g ref="char:EOLhyphen"/>throwne, euen by death it ſelfe.</p>
+            <p>It is ſo indeed, that vntill wee be thus armed, wee ſhall not bee hardy enough to en<g ref="char:EOLhyphen"/>counter Death; Wee cannot but tremble at the thought, much more at the preſence of that grimme King of feare;
+<pb n="66" facs="tcp:191528:41"/>For wee are in death to grapple with moſt gaſtly enemies much to ſtrong for vs, and breathing nothing but bloud and deſtru<g ref="char:EOLhyphen"/>ction; namely ſinne, Sathan, all the powers of Hell, and the curſe of GOD. It would daunt the ſtouteſt heart to be thrown into the middeſt of many raue<g ref="char:EOLhyphen"/>ning Beares, and roaring Ly<g ref="char:EOLhyphen"/>ons all naked without any weapon to defend himſelfe, or offend them. And where is hee that hath the courage to en<g ref="char:EOLhyphen"/>counter ſinne accuſing him, Sa<g ref="char:EOLhyphen"/>than and Hell gaping for him, and GODS wrath like Light<g ref="char:EOLhyphen"/>ning flaſhing at him; if hee be not well prouided of this ſpi<g ref="char:EOLhyphen"/>rituall armour, which onely can ſecure him in this conflict, and keepe him that hee be not
+<pb n="67" facs="tcp:191528:41"/>ſwallowed vp of them. But as a faint heart would dare to en<g ref="char:EOLhyphen"/>ter the field againſt moſt furi<g ref="char:EOLhyphen"/>ous foes, that were furniſhed with ſuch armour of proofe, as no blow or ſhotte could pierce; So get wee on this armour of GOD, and we ſhall haue heart enough to looke Death in the face; nor ſhall at that time, our ſinnes, Sathans fury, or GODS wrath appall vs, being ſo tho<g ref="char:EOLhyphen"/>rowly fenced and armed, that none of theſe can hurt vs, who vnderſtands that GOD is be<g ref="char:EOLhyphen"/>come our friend, our ſinnes are pardoned, and that Sathan is as a Lyon chained vp, ſtamping and roaring at vs, but not able to hurt vs.</p>
+            <p>With what a conſtant and magnanimous ſpirit doth holy
+<pb n="68" facs="tcp:191528:42"/>DAVID expect the approch of Death? <hi>I will not</hi> (ſaith hee <hi>Pſal.</hi> 23.) <hi>feare any euill, though J ſhould walke thorow the vally of the ſhadow of death.</hi> And whence doth this his courage grow; but from faith, which made him ſee God preſent with him, to conduct him ſafe tho<g ref="char:EOLhyphen"/>row that darke and gloomy vally (for thou art with mee, ſaith hee;) Nay, whom hee felt to be preſent with him in reſtoring his ſoule, and leading him in the pathes of righteouſ<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>How cheerefully was bleſſed PAVL alſo affected toward death? When hee ſaw it to draw nigh, 2 <hi>Tim.</hi> 4, 6. &amp;c. <hi>I am euen now ready to bee offered, and the time of my departing is
+<pb n="69" facs="tcp:191528:42"/>at hand,</hi> &amp;c. And what is it that maketh him thus cheere<g ref="char:EOLhyphen"/>full and confident in this caſe? Firſt, a good conſcience that did beare him witneſſe of his ſincerity in ſeruing God in all his courſe, and then his faith which he had kept ſure and in<g ref="char:EOLhyphen"/>uiolable, as <hi>Verſe 7. I haue fought a good fight; I haue fini<g ref="char:EOLhyphen"/>ſhed my courſe, I haue kept the faith.</hi> Next, an aſſured hope of ſaluation which did ſpring from theſe: <hi>From hencefoorth is laid vp for me the Crowne of righteouſneſſe, which in that day the Lord, that righteous Judge ſhall giue mee, <g ref="char:V">Ʋ</g>erſe</hi> 8. And in like ſort, whoſoeuer hee be that is thus armed, hee ſhall be able with equall confidence to ſtand againſt Death, yea, to bid de<g ref="char:EOLhyphen"/>fiance
+<pb n="70" facs="tcp:191528:43"/>thereto with the ſame, PAVL, ſaying as in 1 <hi>Cor.</hi> 15.55. &amp;c. <hi>Death where is thy ſting? O graue where is thy vi<g ref="char:EOLhyphen"/>ctory?</hi> It is (beleeue me) one<g ref="char:EOLhyphen"/>ly ſinne and vnbeliefe that doth ſtrip vs naked, and maketh our ſoules penetrable by the vene<g ref="char:EOLhyphen"/>mous ſting of Death. Procure wee to our ſelues faith and a good conſcience, to take away the guilt of ſinne, and quell the power of it, wee ſhall bee ſo ſolide and firme, that Death may hiſſe at vs, but not ſting vs; nibble vs but not bite vs; and as it was told the Viper gnawing at a File, that ſhee ſhould ſooner weare and break her owne teeth then fret the File; So ſhall Death blunt her venemous ſting, and breake her
+<pb n="71" facs="tcp:191528:43"/>viperous teeth, but not faſten them vpon vs to doe vs any hurt.</p>
+            <p>The laſt thing that I would aduiſe vnto in this buſineſſe, is euer to keepe an euen and juſt reckoning with GOD. What was it that made the vniuſt Steward, <hi>Luke</hi> 16. to heare of giuing vp an account with ſo ill a will, but becauſe it was not euen, nor could hee render a good reckoning? If a debtor be farre behinde hand with his Creditor, and bee much on the ſcore, hee doth hang backe from comming to an account; but if matters ſtand euen betweene them, the one is not more for<g ref="char:EOLhyphen"/>ward to cal for a reckoning, then the other is to giue one. And what is it that doth more
+<pb n="72" facs="tcp:191528:44"/>daunt and appall vs at our death, then that wee ſee that our account with GOD doth not ſtand euen, and that we are infinitely indebted and runne behinde hand with him, tho<g ref="char:EOLhyphen"/>row our extreame careleſneſſe and ill husbandry. It is a com<g ref="char:EOLhyphen"/>mon prouerbe among vs, that euen reckoning doth make long friends: and wee dare walke openly, and ſhew our face bold<g ref="char:EOLhyphen"/>ly before men, when wee are cleere with them and owe them nothing. It is then a ſingular courſe to make and continue friendſhip betweene the LORD and our ſelues, to keepe euen with him, where<g ref="char:EOLhyphen"/>by wee ſhall alſo obtaine a ſpi<g ref="char:EOLhyphen"/>rituall boldneſſe to come, and at any time ſhew our ſelues be<g ref="char:EOLhyphen"/>fore him.</p>
+            <pb n="73" facs="tcp:191528:44"/>
+            <p> To this end wee are to imi<g ref="char:EOLhyphen"/>tate good husbands of this world, who in their generation are wiſer then the children of light; and to keepe a booke and record of our thoughts, words, and deeds, briefely of all buſi<g ref="char:EOLhyphen"/>neſſes betweene GOD and vs; then oft to ſuruey and examine it, and what vpon this ſurvey wee finde amiſſe, out of hand to ſet to rights. It is the courſe of good husbands to keepe a booke of all their takings, bor<g ref="char:EOLhyphen"/>rowings, and layings out, that they may know what they owe, and what is owing vnto them; and ſuch as keepe no re<g ref="char:EOLhyphen"/>cord of their doings, haue little care of their owne ſtate, or how they deale with other men. This muſt wee doe, if
+<pb n="74" facs="tcp:191528:45"/>wee will be good husbands for our ſoules; in which reſpect they are ſurely bad husbands, that keepe no regiſter of mat<g ref="char:EOLhyphen"/>ters betweene God and them, but let all things paſſe without remembrance and obſeruation. Such perſons can neuer be thankfull vnto God for his mer<g ref="char:EOLhyphen"/>cies, nor penitent for their ſinnes, no nor haue any certaine knowledge of their ſtate and caſe, what it is toward GOD. If they imagine that the leſſe they take notice of it, the more quiet they ſhall haue in their mindes, and haue the leſſe to anſwer for, they are much de<g ref="char:EOLhyphen"/>ceiued. For although wee be careleſſe, the LORD will not neglect the buſineſſe, but wri<g ref="char:EOLhyphen"/>teth vp all in his Booke, which
+<pb n="75" facs="tcp:191528:45"/>in time hee will vnfold, and ſet all our debts and ſinnes in or<g ref="char:EOLhyphen"/>der before our faces to our great amazement. Now Sa<g ref="char:EOLhyphen"/>than that cut-throate will not let the matter ſlip ſo; but as a cruell and griping Vſurer, who hath to doe with an vnthrifty Gallant, that careth onely to borrow money and ſpend it, will bee ſure to keepe together all the Bills and bonds that are owing him, and at length if he doe not timely prouide to diſ<g ref="char:EOLhyphen"/>charge them, will clap an Exe<g ref="char:EOLhyphen"/>cution on his backe, and lay him vp for them: So the Deuill will ſcore vp all our wicked and vngodly pranckes, wherewith wee make our ſelues merry, and will be ſure with all ri<g ref="char:EOLhyphen"/>gour to charge vs with them,
+<pb n="76" facs="tcp:191528:46"/>and exact them at our hands.</p>
+            <p>What ſhall wee then get by this ſlouth, that wee keepe no record of any matters between GOD and vs, but that wee ſhall bee infinitly indebted not knowing of it, and lye ſecure without feare, when wee are euen in the hands and vnder the execution of the Diuell, that vnmercifull broker and mur<g ref="char:EOLhyphen"/>therer of mens Soules?</p>
+            <p>As therefore, wee care any thing for our ſoules good, let vs not faile to keepe a preciſe re<g ref="char:EOLhyphen"/>cord, and therein to ſet downe GODS benefites, as ſo many receipts which wee are to an<g ref="char:EOLhyphen"/>ſwere for; then our whole car<g ref="char:EOLhyphen"/>riage toward the LORD, that by a view of theſe wee may bee furthered in our repentance
+<pb n="77" facs="tcp:191528:46"/>and thankfulneſſe, and know whether wee goe backe or for<g ref="char:EOLhyphen"/>ward with the LORD. And this wee ſhall know by ſo much the better, by how much the more often wee doe ſuruey and ſearch this booke.</p>
+            <p>No man ſhall bee much the better for his reckoning booke, if hee doe not peruſe it: and hee that will bee well acquain<g ref="char:EOLhyphen"/>ted with his eſtate, muſt oft examine that booke and caſt vp his account.</p>
+            <p>The like muſt wee doe, ouer<g ref="char:EOLhyphen"/>looking the booke of our Con<g ref="char:EOLhyphen"/>ſcience and ſumming vp mat<g ref="char:EOLhyphen"/>ters betweene GOD and vs. This was holy DAVIDS ex<g ref="char:EOLhyphen"/>erciſe. <hi>I conſidered my wayes and turned my feete vnto thy te<g ref="char:EOLhyphen"/>ſtimonies,</hi> Pſal. 119.59. This
+<pb n="78" facs="tcp:191528:47"/>conſideration of his wayes, what was it but a ſuruey of all his courſes, that hee held an ex<g ref="char:EOLhyphen"/>amining of them to find out his errours, to repent of and a<g ref="char:EOLhyphen"/>mend them, and ſo to ſet all to rights betweene GOD and him.</p>
+            <p>The oftner that wee thus caſt vp our account with GOD the better. It is a great benefit that wee ſhall thereby more exactly know our eſtate with GOD; and it will bee a good courſe, that wee runne not farre behind with him. Beſides often reckonings are the ligh<g ref="char:EOLhyphen"/>ter, and the more eaſie made: but reckonings that are long let runne, grow the more hea<g ref="char:EOLhyphen"/>uie in the end and troubleſome to diſcharge.</p>
+            <pb n="79" facs="tcp:191528:47"/>
+            <p> Who findes this more, then they that neglect this duty their whole life long, and ſo at their Death haue a reckoning to make for all matters? It doth bring them then to their wits end, and ouerwhelme them with deſpaire, to conſider what a long and huge ſcrowle of debts they are to anſwere for. Wee ſhall therefore doe wiſely to reckon with GOD, and to make all euen betweene him and our ſelues euery day.</p>
+            <p>Our bleſſed SAVIOVR in the Prayer which hee hath left vs, doth ſend vs euery day to our heauenly Father, no leſſe for the forgiueneſſe of our ſinnes, then our daily Bread.</p>
+            <p>And how can wee obtaine the pardon of our ſinnes, vn<g ref="char:EOLhyphen"/>leſſe
+<pb n="80" facs="tcp:191528:48"/>wee find them out and ac<g ref="char:EOLhyphen"/>knowledge them, which is a ſpeciall part of this reckoning whereof wee ſpeake? If then CHRIST would haue vs e<g ref="char:EOLhyphen"/>uery day begge of GOD the pardon of our ſinnes, he would haue vs euery day ſumme vp the Booke betweene GOD and our ſelues, to find out our ſinnes and debts what they be.</p>
+            <p>And this, good DAVID did aduiſe his enemies vnto, <hi>Pſal.</hi> 4.4. that ſo they might come to the knowledge and acknowledgement of their wic<g ref="char:EOLhyphen"/>kedneſſe, in oppoſing him whom GOD had appointed to the Kingdome. <hi>Examine your heart</hi> (ſayth hee) <hi>vpon your bed and bee ſtill.</hi> Lye not downe any night vpon your
+<pb n="81" facs="tcp:191528:48"/>bed, but ere you ſleepe ſearch your hearts, examine and call to minde all your wayes, and ſet all things to right betweene GOD and you.</p>
+            <p>The profit of this courſe is ſo notable, and the neceſſity of it ſo cleere, that euen Heathen men haue ſeene it, and ſo haue both vſed and commended this practice. <hi>Pythagoras</hi> charged his Schollers alway before they ſlept, to call themſelues to rec<g ref="char:EOLhyphen"/>koning for all the buſineſſe of the day paſt, according to cer<g ref="char:EOLhyphen"/>tayne Latine verſes, which are thus in Engliſh:
+<q>
+                  <l>
+                     <hi>Suffer not gentle ſleepe before</hi>
+                  </l>
+                  <l>
+                     <hi>thine eyes to ſeize vpon:</hi>
+                  </l>
+                  <l>
+                     <hi>That thou haue called all to mind</hi>
+                  </l>
+                  <l>
+                     <hi>which in the day was done.</hi>
+                  </l>
+               </q>
+            </p>
+            <pb n="82" facs="tcp:191528:49"/>
+            <p> Thus wee read of others alſo: But yet this is not all wee are to doe: For, by this daily reckoning, if wee proceed no further, wee ſhall onely finde out our ſinnes and ſee what our debts bee; which when wee ſhall ſee to bee much more then wee are able to pay, will make vs grow deſperate and care<g ref="char:EOLhyphen"/>leſſe which end goe forward, or ouerwhelme vs with feare and horrour. To this then, we muſt further labour to get our debts croſſed and ſinnes pardo<g ref="char:EOLhyphen"/>ned. And heere what courſe SALOMON doth aduiſe a man, vnto him that is ſurety and in great bonds for another, that courſe muſt we take euery day with the LORD.</p>
+            <p>Let vs heare then what SA<g ref="char:EOLhyphen"/>LOMON
+<pb n="83" facs="tcp:191528:49"/>ſaith in ſuch a caſe, <hi>Prouerbs</hi> 6.1.2. &amp;c. My ſonne, if thou be ſurety for thy neigh<g ref="char:EOLhyphen"/>bour, and haſt ſtricken hands with the ſtranger, thou art ſna<g ref="char:EOLhyphen"/>red with the words of thy mouth, thou art taken with the words of thine owne mouth. Doe this now my ſonne deliuer thy ſelfe, ſeeing thou art come into the hand of thy neighbour, goe and humble thy ſelfe, and ſollicite thy friends. Giue no ſleepe to thine eyes nor ſlum<g ref="char:EOLhyphen"/>ber to thine eye-lids; Deliuer thy ſelfe as a Doe from the Hunter, and as a Bird from the hand of the Fowler. If a man bee indebted to another, and haue not to ſatisfie, or bee loth to pay another mans debt, his way is to humble himſelfe vnto
+<pb n="84" facs="tcp:191528:50"/>his Creditour, to begge his fa<g ref="char:EOLhyphen"/>uour; to ſollicite his Friends, that they would pay or at leaſt intreat for him. And this bu<g ref="char:EOLhyphen"/>ſineſſe hee muſt follow, not coldly, but earneſtly, not gi<g ref="char:EOLhyphen"/>uing reſt vnto himſelfe nor his friends till hee bee free; and then for afterward hee muſt play the good husband looking to it, that by vnthrifty cour<g ref="char:EOLhyphen"/>ſes or raſh ſurety hee fall not a<g ref="char:EOLhyphen"/>gaine into the like caſe.</p>
+            <p>Now it is certaine, that wee ſhall not any day or time of the day, looke ouer matters be<g ref="char:EOLhyphen"/>tweene GOD and vs, but wee ſhall finde our ſelues fur<g ref="char:EOLhyphen"/>ther in arrerages with GOD, then wee are able to ſatisfie.</p>
+            <p>It is not then ſafe or wiſe<g ref="char:EOLhyphen"/>dome for vs, careleſly to paſſe
+<pb n="85" facs="tcp:191528:50"/>it ouer, but ere wee ſleepe or take our reſt, let vs get the booke croſt and our debts can<g ref="char:EOLhyphen"/>celled. For which intent wee muſt humble our ſelues to GOD, confeſſe our ſins, accuſe our ſelues vnto him, acknow<g ref="char:EOLhyphen"/>ledge our vnſufficiency, to ſatiſ<g ref="char:EOLhyphen"/>fie, bewayle our wofull caſe, in<g ref="char:EOLhyphen"/>to which we haue brought our ſelues, implore and bee earneſt with the LORD for his mercy to pardon and forgiue our ſins, and to giue vs Grace, that wee may be more wary and better husbands for our Soules in time to come. Wee muſt try our friends, of whom in this caſe we haue onely one who can doe vs good; that is, Ieſus Chriſt, whom we muſt by Prayers ſol<g ref="char:EOLhyphen"/>licite, and beſeech to vndertake
+<pb n="86" facs="tcp:191528:51"/>the matter, and intercede for vs with his Father; nay, whom by Faith in Prayer, wee muſt take and preſent to Al<g ref="char:EOLhyphen"/>mighty GOD, deſiring him to take CHRIST ſurety for vs, and to accept in our be<g ref="char:EOLhyphen"/>halfe, of that full payment and ſatisfaction which hee hath made in his Death and Suf<g ref="char:EOLhyphen"/>ferings.</p>
+            <p>And this beeing done, wee muſt renew our Couenant with GOD; and take new and vnfained purpoſes, to leaue all our vnthrifty courſes, to bee good husbands for our Soules, to keepe out of debt; at leaſt, not wilfully and careleſly to runne behind hand with GOD, ſtrongly crying for his Grace, without which wee can doe
+<pb n="87" facs="tcp:191528:51"/>nothing to worke in vs a faith<g ref="char:EOLhyphen"/>full performance of theſe our purpoſes and deſires. If wee ſhall thus doe day by day, it cannot bee ſaid what peace wee ſhall haue in our ſoules; with what boldneſſe and con<g ref="char:EOLhyphen"/>fidence wee ſhall walke before GOD, and with what com<g ref="char:EOLhyphen"/>fortable reſolutions expect Death. As a man out of debt walketh boldly before men, and is not afraid of a Bayliff though hee ſee him come toward him; but if a man be greatly in debt hee walketh by night, and whenſoeuer hee goeth abroad, hee goeth in great feare; and if hee ſee a Bayliffe come toward him, taketh him to his heeles, miſtruſting that he commeth to arreſt him, and haue him to
+<pb n="88" facs="tcp:191528:52"/>Priſon; Nay, feareth almoſt euery ſtranger, I may ſay, euery buſh to bee a Bayliffe, that watcheth to catch him: So is it here. If wee thus keepe euen with the LORD, we ſhall haue great boldneſſe, and not ſhrinke at the approch of Death, as if it ſhould doe vs any hurt.</p>
+            <p>But if we neglect this courſe, and abide ſecurely in the LORDS debt, as we ſhall haue little quietneſſe all our life, ſo the thought and approch of Death will bee moſt gaſtly, whom we ca<g ref="char:cmbAbbrStroke">̄</g>not otherwiſe ap<g ref="char:EOLhyphen"/>prehend of, but as a Purſeuant to carry vs away to Hell. I will conclude all this with that of ZOPHAR, <hi>Job</hi> 11.13, 14.15 If thou prepare thine heart, and ſtretch out thine hands to<g ref="char:EOLhyphen"/>ward
+<pb n="89" facs="tcp:191528:52"/>him; If iniquitie bee found in thine hand, put it farre away, and let no wickedneſſe dwell in thy tabernacle. Then truly ſhalt thou lift vp thy face without ſpot, and ſhalt be ſtable, and ſhalt not feare.</p>
+            <closer>
+               <signed>Your affectionately louing brother, and moſt care<g ref="char:EOLhyphen"/>full of your eternall wel<g ref="char:EOLhyphen"/>fares, <hi>I. E.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:191528:53"/>
+            <pb n="90" facs="tcp:191528:53"/>
+            <head>IN CONCLVSION OF THIS Worke.</head>
+            <lg>
+               <l>A Winding Sheet,</l>
+               <l>is here ſent from a Friend,</l>
+               <l>To warne, three Siſters</l>
+               <l>for their latter end:</l>
+               <l>Shewing them how,</l>
+               <l>to be prepar'd for death,</l>
+               <l>Before hee come,</l>
+               <l>to ſtop their vitall breath.</l>
+            </lg>
+            <lg>
+               <pb n="91" facs="tcp:191528:54"/>
+               <l>A worke ſo great,</l>
+               <l>that who ſo findeth this,</l>
+               <l>Shall haue great glory,</l>
+               <l>with eternall bliſſe;</l>
+               <l>That tongues of Angells,</l>
+               <l>nor of men can tell,</l>
+               <l>The Ioyes, ſo great,</l>
+               <l>the freedome is, from Hell.</l>
+            </lg>
+            <lg>
+               <l>This Winding-ſheete,</l>
+               <l>was onely ſent to Three,</l>
+               <l>Neuer intending,</l>
+               <l>it ſhould Printed bee;</l>
+               <l>But, that which then,</l>
+               <l>was pointed but for them,</l>
+               <l>Muſt now peruſed be,</l>
+               <l>of many men.</l>
+            </lg>
+            <lg>
+               <l>Now God, grant grace</l>
+               <l>to them and many more</l>
+               <l>That, in reading this,</l>
+               <l>they may haue ſuch ſtore,</l>
+               <pb n="92" facs="tcp:191528:54"/>
+               <l>Of faith, repentance,</l>
+               <l>and a ſound conuerſion</l>
+               <l>To withſtand ſinne,</l>
+               <l>and all helliſh temptation.</l>
+            </lg>
+            <lg>
+               <l>Then they may ſay,</l>
+               <l>to Death, where is thy ſting?</l>
+               <l>And to the Graue,</l>
+               <l>which is a cruell thing,</l>
+               <l>Wee conquered haue, you all,</l>
+               <l>through Chriſt our head,</l>
+               <l>And ſo our Grau's become,</l>
+               <l>the ſweeteſt bed.</l>
+            </lg>
+            <lg>
+               <l>There ſhall wee rest,</l>
+               <l>and lye without all paine,</l>
+               <l>Till the laſt Trumpe doth ſound;</l>
+               <l>Then riſe againe,</l>
+               <l>And then ſhall meet,</l>
+               <l>our Sauiour, in the Ayre,</l>
+               <l>And ſo ſit downe with him,</l>
+               <l>as in a Chaire.</l>
+            </lg>
+            <lg>
+               <pb n="93" facs="tcp:191528:55"/>
+               <l>Judging, the Twelue tribes,</l>
+               <l>with all other men.</l>
+               <l>And after that, aſcend,</l>
+               <l>with Chriſt in heauen,</l>
+               <l>And there behold,</l>
+               <l>the glory which hee had</l>
+               <l>With God the Father,</l>
+               <l>e're the world was made.</l>
+            </lg>
+            <closer>
+               <signed>D. W.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191528:55"/>
+         </div>
+      </body>
+   </text>
+</TEI>
